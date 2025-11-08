@@ -17,10 +17,3 @@ L’interface graphique utilise **Swing** avec **MigLayout** et **FlatLaf** pour
 ## 🚀 Prérequis
 - Java JDK 11 ou supérieur
 - IDE compatible Java (IntelliJ IDEA recommandé)
-- Connexion Internet pour exécuter le serveur et les clients
-
-## 📥 Installation et exécution
-1. Cloner le dépôt :
-   ```bash
-   git clone [lien du dépôt]
-
